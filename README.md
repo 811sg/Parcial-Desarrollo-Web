@@ -43,7 +43,7 @@ También cuenta con la consola de H2 para consultar la base de datos.
 ### 1. Clonar el proyecto
 
 ```bash
-git clone [URL_DEL_REPOSITORIO](https://github.com/811sg/Parcial-Desarrollo-Web)
+git clone https://github.com/811sg/Parcial-Desarrollo-Web
 ```
 
 ### 2. Entrar a la carpeta
