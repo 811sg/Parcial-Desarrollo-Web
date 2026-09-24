@@ -70,11 +70,17 @@ Para consultar todos los productos:
 http://localhost:8080/api/productos
 ```
 
+<img width="1742" height="251" alt="image" src="https://github.com/user-attachments/assets/8448045f-969d-4ef2-b66e-0e1436269d05" />
+
+
 Para consultar un producto específico:
 
 ```text
 http://localhost:8080/api/productos/1
 ```
+
+<img width="1227" height="210" alt="image" src="https://github.com/user-attachments/assets/3a295fcc-c613-40f4-a68e-cb29321574bd" />
+
 
 ### Consola H2
 
