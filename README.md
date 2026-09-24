@@ -1,7 +1,5 @@
 # API REST de Productos
 
-Proyecto desarrollado con **Java y Spring Boot** para crear una API REST que permite consultar productos de una tienda.
-
 ## Tecnologías
 
 * Java 21
