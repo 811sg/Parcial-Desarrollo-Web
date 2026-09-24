@@ -80,10 +80,6 @@ http://localhost:8080/api/productos/1
 <img width="1227" height="210" alt="image" src="https://github.com/user-attachments/assets/3a295fcc-c613-40f4-a68e-cb29321574bd" />
 
 
-```text
-http://localhost:8080/h2-console
-```
-
 ## Autor
 
 Sebastian Gonzalez Campiño
